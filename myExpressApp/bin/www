@@ -6,6 +6,9 @@
 /*
   Adding some comments for push TEST 2
 */
+/*
+  This is a test to see if it works
+*/
 var app = require('../app');
 var debug = require('debug')('myexpressapp:server');
 var http = require('http');
